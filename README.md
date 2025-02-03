@@ -1,7 +1,7 @@
 ## Hi there 👋
-## Im Zeus!
-##curently im working on becoming a full stack webdeveloper with the help of Devslpes.
-##im an ambitiouse gym rat and love to learn new things!
+Im Zeus!
+- Currently im working on becoming a full stack webdeveloper with the help of Devslpes.
+- Im an ambitiouse gym rat and love to learn new things!
 
 <!--
 **Zeus-Hubb/Zeus-Hubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
